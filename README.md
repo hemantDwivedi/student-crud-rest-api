@@ -8,6 +8,10 @@ http://localhost:8080/api/v1/students/
 ```
 http://localhost:8080/api/v1/students/1
 ```
+* GET HTTP METHOD: Find Students by course
+```
+http://localhost:8080/api/v1/students/course?course=MCA
+```
 * POST HTTP METHOD: Add Student
 ```
 http://localhost:8080/api/v1/students
